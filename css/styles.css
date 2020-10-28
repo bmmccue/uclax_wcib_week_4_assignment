@@ -109,15 +109,17 @@ footer a {
   }
 }
 
-@media (min-width: 62em) {
+@media {min-width: 62em; }
+
   .featurette-heading {
     margin-top: 7rem;
   }
-}
+
 
 .btn-outline-success {
     color: white;
     border-color: white;
+  }
 
 .btn-secondary:hover {
     color: #fff;
